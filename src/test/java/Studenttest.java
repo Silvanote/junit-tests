@@ -24,4 +24,9 @@ public class Studenttest{
 //        Student newStudent = new Student(24, "Another Person")
 //                assertEquals(24,newStudent.ID())
 //    }
+//    @Test
+//    public void tester(){
+//        assertEquals(1, student.ID());
+//        Student newStudent = new Student(24, "Another Person")
+//                assertEquals(24,newStudent.ID())
 }
